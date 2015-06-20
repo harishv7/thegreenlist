@@ -18,6 +18,7 @@
       <link href="css/jquery.timepicker.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" type="text/css" href="css/bootstrap-datepicker.css" />
       <link rel="stylesheet" type="text/css" href="css/bootstrap-switch.min.css" />
+      
         
         <!-- LOAD SCRIPTS -->
         <script type="text/javascript" src="js/bootstrap.min.js"></script>

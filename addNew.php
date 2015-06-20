@@ -138,7 +138,7 @@ include 'includes/navbar.php';
                                 </div>
                             </div>
                             <br>
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <a href="samplerecycle.php"><button type="button" class="btn btn-primary">Submit</button></a>
                         </form>
                     </div>
                 </div>
